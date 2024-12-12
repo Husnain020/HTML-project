@@ -1,0 +1,72 @@
+body {
+  background-color: black;
+}
+.au-h1 {
+    text-align: center;
+  }
+
+  .first {
+    color: white;
+  }
+  
+  .au-h2, .au-h3 {
+    color: black;
+    font-weight: 700;
+    padding-bottom: 2%;
+    padding-top: 2%;
+  }
+  
+  .au-section-description {
+    color: white;
+    font-size: 1.3rem;
+    font-weight: 600;
+    line-height: 2;
+  }
+  
+  .website, .email, .email, .phone-no {
+    overflow-wrap: break-word;
+  }
+  
+  .employee-detail-box {
+    padding-top: 3%;
+    padding-bottom: 3%;
+  } 
+
+  .au-common-section {
+    padding: 4% 10%;
+  }
+
+  
+  .aboutus-photo, .employee-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  .employee-image {
+    border-radius: 50%;
+  } 
+  
+  #vis-mis h2, #meet-team h2, .employee-details p, .employee-name {
+    text-align: center;
+  } 
+  
+  .employee-detail-inner-colored-box {
+    background-color: #f2f2f2;
+    padding: 5% 1%;
+  }
+  
+
+
+  *{
+    margin: 0;
+    padding: 0;
+}
+
+.main{
+    width: 100%;
+    background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(https://i0.wp.com/spartansboxing.com/wp-content/uploads/2024/07/Are-boxing-gyms-a-good-investment_1.png?w=1920&ssl=1);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+}
